@@ -1,0 +1,1 @@
+First I have imported all the necessary libraries .This includes numpy,pandas,sklearn Then I have loaded the data which I was downloaded from Kaggle.then i deal with the missing values using pandas library .Then Splitted the data into train data and test data. Trained the model using Logistic Regression.Atlast Evaluated the model by using Accuracy score
